@@ -1,4 +1,4 @@
-*Sacred Space Yoga Website*
+## *Sacred Space Yoga Website*
 
 Welcome to the Sacred Space Yoga website repository! This repository contains the source code for a serene online platform designed to guide individuals on their journey of spiritual and physical well-being through the practice of yoga.
 
@@ -75,4 +75,4 @@ Contributions to improve and enhance the Sacred Space Yoga website are welcome! 
 
 Thank you for your interest in the Sacred Space Yoga website. Namaste! 🙏
 
-Thank you for your interest in the Sacred Space Yoga website. Namaste! 🙏
+
