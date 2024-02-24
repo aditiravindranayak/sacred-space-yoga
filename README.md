@@ -8,10 +8,9 @@ Welcome to the Sacred Space Yoga website repository! This repository contains th
 
 1. [Overview](#overview)
 2. [Features](#features)
-3. [Execution Video](#execution-video)
-4. [Repository Structure](#repository-structure)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
+3. [Repository Structure](#repository-structure)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
 
 ---
 
@@ -35,11 +34,8 @@ The Sacred Space Yoga website boasts several features designed to enhance the us
 
 - **Minimalist Design**: Prioritizes simplicity and elegance to maintain focus on the essence of yoga and create a tranquil online sanctuary.
 
-### 3. Execution Video:
 
-[Click here to watch the execution video of the Sacred Space Yoga website](insert_youtube_link_here)
-
-### 4. Repository Structure:
+### 3. Repository Structure:
 
 The repository is structured as follows:
 
@@ -49,7 +45,7 @@ The repository is structured as follows:
   
 - `script.js`: JavaScript file containing scripts for smooth scrolling navigation and other interactive features.
 
-### 5. Usage:
+### 4. Usage:
 
 To run the Sacred Space Yoga website locally on your machine:
 
@@ -69,7 +65,7 @@ To run the Sacred Space Yoga website locally on your machine:
 
 4. Explore the website and enjoy the tranquil experience of Sacred Space Yoga!
 
-### 6. Contributing:
+### 5. Contributing:
 
 Contributions to improve and enhance the Sacred Space Yoga website are welcome! If you have any suggestions, feature requests, or bug reports, please feel free to open an issue or submit a pull request.
 
